@@ -3,10 +3,14 @@
 ## Overview
 
 In this lab we are going to create a two classes that implement the [comparable
-interface](https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html). The main method
+interface](https://docs.oracle.com/javase/10/docs/api/java/lang/Comparable.html). The main method
 will be defined in App.java and will read a list of courses and students that from standard input. 
 
 In this lab we will define our classes first and write our tests second.
+
+## Videos
+
+- [Lab Overview]()
 
 ## Task 1 - Define the Course class
 
