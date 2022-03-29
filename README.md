@@ -8,7 +8,7 @@ interface allows us to order our objects when searching and sorting.
 
 ## Videos
 
-- [Lab Overview]()
+- [Lab Overview](https://youtu.be/844Besacpls)
 
 ## Task 1 - Complete the MyCourse class
 
@@ -31,8 +31,11 @@ ensure your code is correct. You will need to define at least 3 tests.
 
 ## Task 3 - Input output Testing
 
-The file **App.java** is given to you completed. You can now run input output testing with real
-data on your newly created classes.
+The file **App.java** is given to you to complete. You can now run input output testing with real
+data on your newly created classes. You will need to read in input from the terminal, create
+new **MyCourse** objects and then add them to an ArrayList. Once you have read in all the courses
+you will call Collections.sort on your list and then output them to the command line using the
+toString() method on your class (you will need to override toString in MyCourse).
 
 ### Example run
 
