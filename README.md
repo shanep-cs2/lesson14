@@ -6,9 +6,11 @@ In this lab we are going to create a class that implements the [comparable
 interface](https://docs.oracle.com/javase/10/docs/api/java/lang/Comparable.html). The comparable
 interface allows us to order our objects when searching and sorting.
 
-## Videos
+## Important links
 
 - [Lab Overview](https://youtu.be/844Besacpls)
+- [Class Coding standards](https://shanep-cs2.github.io/docs/coding-standards.html)
+
 
 ## Task 1 - Complete the MyCourse class
 
